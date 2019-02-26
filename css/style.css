@@ -14,8 +14,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 body
 {
-	background: #000000;
-	color: #ffffff;
+	background: #f0f4f4;
+	color: #000000;
 }
 
 body.is-loading *
@@ -526,7 +526,7 @@ table.default tbody tr:first-child
 
 table.default tbody tr:nth-child(2n+1)
 {
-	background: #fafafa;
+	background: #000000;
 }
 
 table.default td
@@ -668,7 +668,7 @@ header .icon.circled
 
 .wrapper
 {
-	background: #fff;
+	background: #000000;
 	margin: 0 0 2em 0;
 	padding: 6em 0 6em 0;
 }
@@ -950,7 +950,7 @@ header .icon.circled
 
 #banner
 {
-	background: #fff;
+	background: #000000;
 	text-align: center;
 	padding: 4.5em 0 4.5em 0;
 	margin-bottom: 0;
@@ -1189,7 +1189,7 @@ header .icon.circled
 {
 	display: inline-block;
 	width: 18em;
-	background: #fff;
+	background: #000000;
 	text-align: center;
 	padding: 0 1em 3em 1em;
 	margin: 0 2em 0 0;
